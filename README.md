@@ -3,6 +3,9 @@
 This repository contains the code, documentation, and demonstration materials related to my Master's thesis:  
 **"Designing a Cyber-Secure Infrastructure for Belgian SMEs: A Modular Approach aligned with the CyFun Framework, with Focus on the Accounting Sector"**
 
+
+The complete infrastructure project is included as a compressed archive: JANUS.zip. A demonstration video and screenshots showing the infrastructure in action can be found in the demo/ folder.
+
 ## 📁 Project Structure
 
 This is a copy of the original JANUS infrastructure, adapted and reorganized for academic and public use.
@@ -21,7 +24,7 @@ janus/
 │       ├── policies/
 │       ├── risk/
 │       └── /*/output/               # Collected results
-├── Vagrantfile
+├── user/Vagrantfile
 └── README.md
 
 ````
