@@ -30,7 +30,7 @@ janus/
 
 ##  How to Launch the Project
 
-###  Prerequisites (Exampleon Debian-based systems)
+###  Prerequisites (Example on Debian-based systems)
 
 Install the required dependencies:
 
