@@ -24,7 +24,6 @@ janus/
 │       ├── policies/
 │       ├── risk/
 │       └── /*/output/               # Collected results
-├── user/Vagrantfile
 └── README.md
 
 ````
