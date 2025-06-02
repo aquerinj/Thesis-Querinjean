@@ -71,7 +71,7 @@ set "USE_CYFUN=true" && vagrant destroy --force && vagrant box update && vagrant
 
 ##  Demonstration
 
-A screencast video and example outputs are available in the `/demo` folder or via the [GitHub repository](https://github.com/aquerinj/Thesis-Querinjean/demo).
+A screencast video and example outputs are available in the `/demo` folder or via the [GitHub repository](https://github.com/aquerinj/Thesis-Querinjean/tree/main/demo).
 
 ## Purpose of This Work
 
